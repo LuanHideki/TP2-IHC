@@ -18,17 +18,3 @@ Análises gráficas foram feitas para explorar a relação entre os atributos:
 
 Essas visualizações mostraram que há uma relação direta entre o engajamento e o 
 tempo de estudo, número de vídeos assistidos e exercícios entregues.
-
-### Resultados:
-
-| Algoritmo     | Acurácia   |
-|---------------|------------|
-| ZeroR         | 32,39%     |
-| OneR          | 97,18%     |
-| J48           | 97,18%     |
-| NaiveBayes    | 100%       |
-| IBK           | 100%       |
-
----
-
-
